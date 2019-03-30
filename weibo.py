@@ -7,16 +7,16 @@ import time
 import requests
 import login
 
-user_name = '******'
+user_name = '****'
 
-pass_word = '*****'
+pass_word = '****'
 
 # mobile: user page
-url_user = "https://m.weibo.cn/api/container/getIndex?uid=****&luicode=*****&lfid=****&type=uid&value=*****&containerid=*******"
+url_user = "https://m.weibo.cn/api/container/getIndex?uid=1939498534&luicode=10000011&lfid=1076035223052780&type=uid&value=1939498534&containerid=1076031939498534"
 
 # url_add = "https://www.weibo.com/aj/mblog/add"
 
-url_forward = "https://www.weibo.com/aj/v6/mblog/forward?ajwvr=6&domain=*****&__rnd=1545642530496"
+url_forward = "https://weibo.com/aj/v6/mblog/forward?ajwvr=6&domain=ljrezero&__rnd=1553964251498"
 
 
 headers_mobile = {
