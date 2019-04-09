@@ -7,9 +7,9 @@ import time
 import requests
 import login
 
-user_name = '****'
+user_name = '17806261908'
 
-pass_word = '****'
+pass_word = 'wei56bo?'
 
 # mobile: user page
 url_user = "https://m.weibo.cn/api/container/getIndex?uid=1939498534&luicode=10000011&lfid=1076035223052780&type=uid&value=1939498534&containerid=1076031939498534"
