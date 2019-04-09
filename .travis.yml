@@ -7,3 +7,5 @@ install:
 # command to run tests
 script:
   - python weibo.py
+  - cat cookie_json
+  - cat weibo_log
